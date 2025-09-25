@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-
+![Project Logo](https://githubu.com/MaheshikaDodangoda/repo/main/walmart.png)
 
 This project involves analyzing Walmart sales data to extract meaningful insights such as payment trends, category performance, branch efficiency, and revenue patterns. It uses Python for data cleaning and loading, and SQL(MYSQL/PostgreSQL) for querying. The dataset is processed in a Jupyter Notebook, cleaned, and loaded into a database for analysis.
 
