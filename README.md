@@ -15,13 +15,13 @@ This project involves analyzing Walmart sales data to extract meaningful insight
 ### 2. Requirements
 - Python 3.8+
 - SQL Databases: MySQL / PostgreSQL
-- - **Python Libraries**:
-  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
+-  **Python Libraries**:
+   `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
 - **Kaggle API Key** (for data downloading)
   
 ### 3. Explore the Data
 - **Goal**: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
-   - **Analysis**: Use functions like `.info()`, `.describe()`, and `.head()` to get a quick overview of the data structure and statistics.
+- **Analysis**: Use functions like `.info()`, `.describe()`, and `.head()` to get a quick overview of the data structure and statistics.
  
 ### 4. Data Cleaning
    - **Remove Duplicates**: Identify and remove duplicate entries to avoid skewed results.
