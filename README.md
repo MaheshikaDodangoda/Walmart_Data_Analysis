@@ -35,8 +35,8 @@ This project involves analyzing Walmart sales data to extract meaningful insight
    - **Enhance Dataset**: Adding this calculated field will streamline further SQL analysis and aggregation tasks.
 
 ### 6. Load Data into MySQL / PostgreSQL
-   - **Set Up Connections**: Connect to MySQL and PostgreSQL using `sqlalchemy` and load the cleaned data into each database.
-   - **Table Creation**: Set up tables in both MySQL and PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
+   - **Set Up Connections**: Connect to MySQL / PostgreSQL using `sqlalchemy` and load the cleaned data into each database.
+   - **Table Creation**: Set up tables in MySQL / PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
 
 ### 7. SQL Analysis
    - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
